@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husam-abuzina&label=Profile%20views&color=0e75b6&style=flat" alt="husam-abuzina" /> </p>
 
-- 🌱 I’m currently learning **Express & Node.js**
+- 🌱 I’m currently learning **Laravel & PHP**
 
-- 💬 Ask me about **Android, Kotlin**
+- 💬 Ask me about **BackEnd**
 
 - 📫 How to reach me **husamzinap@gmail.com**
 
