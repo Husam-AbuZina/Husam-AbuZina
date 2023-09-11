@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husam-abuzina&label=Profile%20views&color=0e75b6&style=flat" alt="husam-abuzina" /> </p>
 
-- 🌱 I’m currently learning **Laravel & PHP**
+- 🌱 I’m currently learning ** Node.js & Express.js **
 
 - 💬 Ask me about **BackEnd**
 
